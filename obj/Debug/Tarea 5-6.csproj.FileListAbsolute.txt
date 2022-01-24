@@ -1,0 +1,10 @@
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\bin\Debug\Tarea 5-6.exe.config
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\bin\Debug\Tarea 5-6.exe
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\bin\Debug\Tarea 5-6.pdb
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea 5-6.csprojAssemblyReference.cache
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea_5_6.fmrCine.resources
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea_5_6.Properties.Resources.resources
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea 5-6.csproj.GenerateResource.cache
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea 5-6.csproj.CoreCompileInputs.cache
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea 5-6.exe
+E:\Downloads\Tarea 5-6\Tarea 5-6\Tarea 5-6\obj\Debug\Tarea 5-6.pdb
